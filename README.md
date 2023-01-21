@@ -1,4 +1,4 @@
-# Rook-2.0
+# Rook-2.0 - Beta
 
 ![Rook 2 0](https://user-images.githubusercontent.com/119429729/212772172-d4bb4879-3d80-457f-ae41-5f5bd654ffb6.png)
 ![Rook 2 0 front](https://user-images.githubusercontent.com/119429729/212772181-8a1c8bdc-05b5-4a43-8110-af97899e1aee.png)
