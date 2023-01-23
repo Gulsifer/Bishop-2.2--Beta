@@ -1,4 +1,5 @@
-# Rook-2.0 - Beta
+# Bishop-1.0 - Beta
+![Bishop Logo](https://user-images.githubusercontent.com/119429729/213951045-ed1cb27d-707b-4f94-bb17-9b2d6809b0fe.png)
 
 ![Rook 2 BOM](https://user-images.githubusercontent.com/119429729/213884817-599a1bc3-2994-4601-9860-146cdf612573.png)
 
