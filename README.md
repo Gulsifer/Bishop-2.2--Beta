@@ -1,6 +1,6 @@
 # Bishop-1.0 - Beta
 
-Due to some miner design issues i removed the files and will Upload new ones Soon. Please keep in mind Bishop is in beta testing and we want to adress issues. 
+Due to some miner design issues i removed the files and will Upload new ones Soon. Please keep in mind Bishop is in beta testing and we want to adress the issues. 
 
 ![Bishop Logo](https://user-images.githubusercontent.com/119429729/213951045-ed1cb27d-707b-4f94-bb17-9b2d6809b0fe.png)
 
