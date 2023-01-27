@@ -12,4 +12,4 @@ Due to some miner design issues i removed the files and will Upload new ones Soo
 
 BOM for the Bishop 
 
-https://docs.google.com/spreadsheets/d/1ZFRl9ZaASBvfEa5qRWoGPXiH7ubDke6QfWuBBpoluNM/edit#gid=211537939
+[https://docs.google.com/spreadsheets/d/1ZFRl9ZaASBvfEa5qRWoGPXiH7ubDke6QfWuBBpoluNM/edit#gid=211537939](https://docs.google.com/spreadsheets/d/e/2PACX-1vTG24Qq6HXgaEw8FsFJQ9w5lthoXAIvW8RyEpdyS0OgmbRNnky9VvoNSDUv3st89JSgffwOJQpoFtzq/pubhtml)
